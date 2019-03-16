@@ -75,12 +75,10 @@ header i.icon{
     position: fixed;
     right: 30px;
     top:32px;
-    z-index: 10px;
+    cursor: pointer;
+    z-index: 10;
     display: none;
     color: #fff;
-    cursor: pointer;
-
-    
 }
 
 header .logo h2{

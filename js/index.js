@@ -3,7 +3,7 @@ $(document).ready(function(){
     
     // Show Navbar when Click on icon
     $('i.icon').click(function(){
-        $('.nav-list').slideToggle();
+        $('.nav-list').slideToggle()
     });
     
 
